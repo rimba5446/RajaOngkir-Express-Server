@@ -4,7 +4,7 @@ const axios = require("axios");
 
 
 axios.defaults.baseURL = "https://api.rajaongkir.com/starter";
-axios.defaults.headers.common["key"] = "7c8e63b43d1891ef6ca4ae9ef82155e8";
+axios.defaults.headers.common["key"] = "e22ef7c9988e153b18e29263fbfa941f";
 axios.defaults.headers.post["Content-Type"] =
   "application/x-www-form-urlencoded";
 
